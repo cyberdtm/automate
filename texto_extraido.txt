@@ -1,0 +1,1037 @@
+
+================================================================================
+PAGINA 1
+================================================================================
+0 0 0
+A Semana na Renda Fixa
+20 de fevereiro de 2026
+50 52 54
+RReennddaa FFiixxaa
+255 188 0
+De 16 a 20 de fevereiro de 2026
+0 210 197
+64 64 64
+126 126 126 O que aconteceu nesta semana na renda fixa? Camilla Dolle
+No comparativo semanal, os juros futuros dos EUA avançaram após a Suprema Corte derrubar as tarifas impostas pelo governo Donald Trump, movimento que Research -Renda Fixa
+pressionou as Treasuries, levando a T-Note de 2 anos a 3,48% (+8 bps vs. semana anterior), a T-Note de 10 anos a 4,08% (+3 bps) e o T-Bond de 30 anos a 4,72%
+(+2 bps). No Brasil, o alívio externo impulsionado pela decisão gerou uma queima de prêmios ao longo de toda a curva, com a NTN-B 2030 recuando para 7,67% Mayara Rodrigues
+a.a. (-5 bps), enquanto os DIs acompanharam o movimento, fechando em 13,24% no jan/27 (-7 bps), 12,60% no jan/29 (-7 bps) e 13,05% no jan/31 (-3 bps). Research -Renda Fixa
+No mercado secundário de crédito privado, os spreads das debêntures indexadas ao CDI terminaram a semana em 1,85%, enquanto as debêntures isentas
+Maria Luisa Paolantoni
+encerraram em -22,60 bps. Com apenas três dias de negociação devido ao Carnaval, os volumes recuaram: R$ 305 milhões em debêntures não incentivadas (vs.
+R$ 941 milhões) e R$ 693 milhões em incentivadas (vs. R$ 1.668 milhões). Nos CRAs, o fluxo médio foi de R$ 297 milhões (vs. R$ 301 milhões) e, nos CRIs, R$ 195 Research -Renda Fixa
+milhões (vs. R$ 249 milhões).
+Destaque da semana: O PIB dos Estados Unidos cresceu 1,4% (anualizado) no quarto trimestre ante o trimestre imediatamente anterior, bem abaixo do projetado
+(2,8%). Mesmo mais fraco do que o esperado, o PIB cresceu 2,2% no ano passado, corroborando um cenário de atividade econômica robusta e inflação resistente.
+O que esperar para a próxima semana?
+Figura 01: Curva DI Futuro (%)
+No cenário internacional, teremos a divulgação do
+15,0%
+20/02/26 1 Semana 1 Mês 6 Meses
+índice de preços ao produtor e de sondagens
+regionais de atividade econômica. Na China, o banco
+14,0%
+central decidirá pelas taxas de empréstimos de 1
+ano e de 5-10 anos. 13,0%
+No Brasil, será divulgado o IPCA-15 de fevereiro e o
+12,0%
+CAGED de janeiro. Além disso, o banco central
+6 6 6 7 7 7 8 8 8 9 9 9 0 0 0 1 1 1 2 2 2 3 3 3 4 4 4
+2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+divulgará as estatísticas de crédito, fiscais e do setor / / / / / / / / / / / / / / / / / / / / / / / / / / /
+r o z r o z r o z r o z r o z r o z r o z r o z r o z
+b g e b g e b g e b g e b g e b g e b g e b g e b g e
+externo, também de janeiro. a a d a a d a a d a a d a a d a a d a a d a a d a a d
+XP RESEARCH
+Fontes: Bloomberg, B3, IBGE, JGP e XP Research. 11
+RENDA FIXA
+================================================================================
+PAGINA 2
+================================================================================
+0 0 0
+50 52 54
+Renda Fixa
+255 188 0
+Seção 1
+0 210 197
+Destaque da semana
+64 64 64
+Seção 2
+126 126 126
+Panorama da semana
+Seção 3
+Índices e Mercado Secundário
+Seção 4
+Índice
+Movimentações nos ratings de emissores
+Seção 5
+Emissões Recentes | Aprovadas e Anbima
+Seção 6
+Títulos Públicos
+Seção 7
+O que esperar para a semana seguinte
+Seção 8
+Publicações recentes em destaque
+XP RESEARCH
+2
+RENDA FIXA
+================================================================================
+PAGINA 3
+================================================================================
+0 0 0
+50 52 54
+Renda Fixa
+255 188 0
+0 210 197
+64 64 64
+126 126 126
+Seção 1
+Destaque da semana
+XP RESEARCH
+3
+RENDA FIXA
+================================================================================
+PAGINA 4
+================================================================================
+0 0 0
+Destaque da semana
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Início com preenchimento sólido
+PIB dos EUA
+0 210 197
+64 64 64 O PIB dos Estados Unidos cresceu 1,4% (anualizado) no quarto trimestre ante o trimestre imediatamente anterior, bem abaixo do projetado (2,8%), devido principalmente a menores gastos do governo
+em razão da paralisação (shutdown) da máquina pública. Mesmo mais fraco do que o esperado, o PIB cresceu 2,2% no ano passado. Os dados seguem corroborando um cenário de atividade
+126 126 126
+econômica robusta e inflação resistente, com espaço reduzido para corte de juros no curto prazo. O mercado atualmente espera que a próxima redução ocorra apenas em junho. ,
+Figura 02: Crescimento do PIB dos EUA se acomoda em torno de 2% - PIB Total
+8,0%
+6,0%
+4,0%
+2,0%
+0,0%
+-2,0%
+-4,0%
+0 0 0 0 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5 5
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+-r -n -t -z -r -n -t -z -r -n -t -z -r -n -t -z -r -n -t -z -r -n -t -z
+a u e e a u e e a u e e a u e e a u e e a u e e
+m j s d m j s d m j s d m j s d m j s d m j s d
+XP RESEARCH
+Fontes: BBG, XP Research. 4
+RENDA FIXA
+================================================================================
+PAGINA 5
+================================================================================
+0 0 0
+50 52 54
+Renda Fixa
+255 188 0
+0 210 197
+64 64 64
+126 126 126
+Seção 2
+Panorama da semana
+XP RESEARCH
+5
+RENDA FIXA
+================================================================================
+PAGINA 6
+================================================================================
+0 0 0
+Panorama da semana
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Cenário macroeconômico e juros
+0 210 197
+Figura 03: Estimativas Macroeconômicas – XP
+Curvas de juros nominal (DI) e real (B)
+64 64 64
+No comparativo semanal, os juros futuros dos EUA avançaram após a Suprema Corte derrubar as tarifas impostas pelo governo Donald Projeções XP 2024 2025E 2026E 2027E
+126 126 126
+Trump, movimento que pressionou as Treasuries, levando a T-Note de 2 anos a 3,48% (+8 bps vs. semana anterior), a T-Note de 10 anos a
+PIB (var. %) 3,4% 2,3% 2,0% 1,2%
+4,08% (+3 bps) e o T-Bond de 30 anos a 4,72% (+2 bps). No Brasil, o alívio externo impulsionado pela decisão gerou uma queima de
+prêmios ao longo de toda a curva, com a NTN-B 2030 recuando para 7,67% a.a. (-5 bps), enquanto os DIs acompanharam o movimento, Selic (% a.a.) 12,25% 15,00% 12,50% 11,00%
+fechando em 13,24% no jan/27 (-7 bps), 12,60% no jan/29 (-7 bps) e 13,05% no jan/31 (-3 bps).
+IPCA (% a.a.) 4,8% 4,3% 3,8% 4,0%
+Leia aqui o último relatório de economia Dólar (R$/US$) 6,17 5,49 5,60 5,80
+Leia aqui o último relatório de economia
+Na semana, os destaques foram:
+• Nos Estados Unidos, a inflação voltou a mostrar resistência, enquanto a atividade segue robusta. O PCE subiu de 2,8% para 2,9% em dezembro, acima do esperado e reforçando pressões
+inflacionárias persistentes. O PIB do 4T avançou 1,4% (anualizado), bem abaixo da projeção de 2,8%, principalmente pelo recuo dos gastos do governo devido ao shutdown. Ainda assim, a
+economia cresceu 2,2% em 2025. A ata do Fed destacou que cortes adicionais dependerão de uma convergência mais clara da inflação, enquanto parte do comitê chegou a considerar
+comunicação que mantivesse aberta a possibilidade de alta de juros. Com isso, o mercado segue projetando início dos cortes apenas em junho.
+• A Suprema Corte dos EUA impôs um limite relevante ao poder presidencial na política comercial. Por 6 votos a 3, o tribunal decidiu que Trump violou a lei federal ao aplicar tarifas emergenciais
+de forma unilateral via IEEPA, sem autorização do Congresso. As medidas recíprocas, incluindo sobretaxas de 40% contra o Brasil, foram invalidadas, mas não afetam tarifas aplicadas sob a
+Seção 232 (aço, alumínio e parte da indústria automotiva).
+• No cenário internacional mais amplo, a decisão da Suprema Corte dos EUA afeta diversos parceiros comerciais como União Europeia, Canadá, México e China.
+• No Brasil, o Índice de Atividade Econômica do Banco Central (IBC-Br), proxy mensal do PIB, recuou 0,2% em dezembro comparado a novembro. Na comparação com dezembro de 2024, o IBC-Br
+cresceu 3,1%, culminando em elevação de 2,45% em 2025. Projetamos alta de 2,0% para o PIB em 2026. A renda real disponível às famílias deve crescer de forma significativa, impulsionada por
+um mercado de trabalho apertado, maiores transferências fiscais e pelos efeitos da reforma do IRPF. Além disso, esperamos forte expansão dos gastos de governos estaduais, aumento do
+crédito direcionado às empresas, liderado por bancos públicos, e aceleração do crédito consignado para trabalhadores do setor privado. Em nossa avaliação, esses fatores devem mais do que
+compensar os efeitos da política monetária contracionista.
+XP RESEARCH
+Fontes: XP Research. 6
+RENDA FIXA
+================================================================================
+PAGINA 7
+================================================================================
+0 0 0
+Panorama da semana
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Mercado internacional
+0 210 197
+64 64 64 Figura 04: Curva de juros americana - Rendimento(yield) das Treasuries (%) Figura 05: Títulos corporativos americanos – Yield to Worst (%) 1
+126 126 126 High Yield Investment Grade
+20/fev 1 Semana 1 mês 6 meses
+12%
+5,5
+10%
+8%
+6%
+5,0 4%
+2%
+0%
+2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 5 6
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+4,5 / / / / / / / / / / / / / / / / / / / / / / / / /
+2 4 6 8 0 2 2 4 6 8 0 2 2 4 6 8 0 2 2 4 6 8 0 2 2
+0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 1 1 0
+/ / / / / / / / / / / / / / / / / / / / / / / / /
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+4,0
+Figura 06: ICE BofA MOVE - Volatilidade implícita dos títulos de renda fixa americanos (5 anos, bps)2
+250
+3,5
+200
+150
+3,0
+100
+68,03
+o n a 1 s o n a 2 s o n a 5 s o n a 7 s o n a 0 1 s o n a 0 2 s o n a 0 3 5 0 0
+2 2 2 2 2 2 3 3 3 3 3 3 4 4 4 4 4 4 5 5 5 5 5 5 6
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+Acompanhe aqui os principais temas do mercado internacional. / / / / / / / / / / / / / / / / / / / / / / / / /
+2 4 6 8 0 2 2 4 6 8 0 2 2 4 6 8 0 2 2 4 6 8 0 2 2
+Acompanhe aqui os principais temas do mercado internacional. 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 1 1 0 0 0 0 1 1 0
+/ / / / / / / / / / / / / / / / / / / / / / / / /
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+XP RESEARCH
+Fontes: Bloomberg e XP Research. | Notas: (1) Índices usados foram Bloomberg Global High Yield e Bloomberg Global Aggregate para renda fixa global high yield e investment grade, respectivamente. 7
+RENDA FIXA
+================================================================================
+PAGINA 8
+================================================================================
+0 0 0
+Panorama da semana
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Mercado local
+0 210 197
+64 64 64 Figura 07: Curva DI Futuro Figura 08: Taxa Selic Esperada (%)
+126 126 126 20/02/26 1 Semana 1 Mês 6 Meses
+15,0% 14,0%
+14,8%
+13,0%
+14,6%
+14,4%
+12,0%
+14,2%
+14,0%
+11,0%
+13,8%
+13,6%
+10,0%
+13,4%
+13,2%
+9,0%
+13,0% 2026 2027 2028 2029
+12,8%
+20/02/26 1 semana atrás 1 mês atrás Estimativa XP
+12,6%
+12,4%
+(% a.a.) 2026 2027 2028 2029
+12,2%
+20/02/26 11,99% 12,19% 13,17% 13,73%
+12,0%
+1 semana atrás 12,05% 12,40% 13,36% 13,89%
+6 6 6 7 7 7 8 8 8 9 9 9 0 0 0 1 1 1 2 2 2 3 3 3 4 4 4
+2 2 2 2 2 2 2 2 2 2 2 2 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3
+/ / / / / / / / / / / / / / / / / / / / / / / / / / / 1 mês atrás 12,14% 12,28% 13,14% 13,67%
+r o z r o z r o z r o z r o z r o z r o z r o z r o z
+b g e b g e b g e b g e b g e b g e b g e b g e b g e
+a a d a a d a a d a a d a a d a a d a a d a a d a a d Estimativa XP 12,50% 11,00% 9,50% 9,50%
+A curva de juros pode ser compreendida como as expectativas dos rendimentos médios de títulos públicos prefixados sem cupom (ou seja, sem pagamentos semestrais), de hoje até uma determinada
+data futura, a partir dos contratos futuros de juros (ou DI). Enquanto isso, a Taxa Selic Esperada é a rentabilidade da taxa básica de juros esperada no final de cada período.Entenda maisaqui.
+XP RESEARCH
+Fontes: Bloomberg e XP Research. 8
+RENDA FIXA
+================================================================================
+PAGINA 9
+================================================================================
+0 0 0
+Panorama da semana
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Mercado local
+0 210 197
+64 64 64 Figura 09: Curva NTN-B Figura 10: Inflação Implícita (Esperada - %)
+9,0%
+126 126 126 20/02/2026 1 Semana 1 Mês 6 Meses 6,0%
+8,8%
+5,5%
+8,6%
+5,0%
+8,4%
+8,2% 4,5%
+8,0%
+4,0%
+7,8%
+3,5%
+7,6%
+2026 2027 2028 2029
+20/02/26 1 semana atrás 1 mês atrás Estimativa XP
+7,4%
+(% a.a.) 2026 2027 2028 2029
+7,2%
+20/02/26 3,99% 4,66% 5,02% 5,56%
+7,0% 1 semana atrás 3,94% 4,82% 5,17% 5,67%
+7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 2 3 4 6 7 8 9 1 mês atrás 3,97% 4,74% 5,13% 5,55%
+2 2 2 3 3 3 3 3 3 3 3 4 4 4 4 4 4 4 4 5 5 5 5 5 5 5 5
+/ / / / / / / / / / / / / / / / / / / / / / / / / / /
+ia
+m
+o
+g a
+v
+o n
+v
+e f
+ia
+m
+o
+g a
+v
+o n
+v
+e f
+ia
+m
+o
+g a
+v
+o n
+v
+e f
+ia
+m
+o
+g a
+v
+o n
+v
+e f
+ia
+m
+o
+g a
+v
+o n
+v
+e f
+ia
+m
+o
+g a
+v
+o n
+v
+e f
+ia
+m
+o
+g a
+v
+o n
+Estimativa XP 3,80% 4,00% 4,00% 4,00%
+A curva NTN-B pode ser compreendida como os juros reais, ou seja, já descontada a inflação, em que os títulos públicos atrelados à inflação são remunerados. Já a inflação implícita é calculada pela
+diferença entre a taxa de juros nominal (precificada na curva DI) e a taxa real (taxa nominal descontada a inflação). Na prática, a implícita reflete as expectativas de inflação negociadas no mercado.
+XP RESEARCH
+Fontes: Broadcast e XP Research. 9
+RENDA FIXA
+================================================================================
+PAGINA 10
+================================================================================
+0 0 0
+50 52 54
+Renda Fixa
+255 188 0
+0 210 197
+64 64 64
+126 126 126
+Seção 3
+Índices e
+Mercado Secundário
+XP RESEARCH
+10
+RENDA FIXA
+================================================================================
+PAGINA 11
+================================================================================
+0 0 0
+Mercado Secundário
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Indicadores de Mercado e Títulos Públicos
+0 210 197
+Figura 11: Retorno acumulado de índices selecionados de mercado nos últimos 12 meses Figura 12: Retorno acumulado de índices selecionados de mercado: rentabilidade por período
+64 64 64
+70,0 %
+Ibovespa
+Semana
+126 126 126 Índice 10 anos 5 anos 12 meses Acum. Ano
+60,0 % (13-19/02)
+IFIX
+50,0 % IFIX
+IDA-IPCA 188,80% 33,35% 25,97% 2,11% 0,57%
+40,0 % IMA-B 5+ 177,99% 23,32% 13,02% 1,25% 0,47%
+IDA-DI
+Dólar (Comercial)
+30,0 % 29,40% -3,95% -8,62% -4,79% 0,44%
+IMA-B 5+
+S&P 500
+257,79% 75,32% 11,68% 0,24% 0,43%
+20,0 %
+IRF-M
+Ibovespa
+354,55% 58,17% 48,09% 17,01% 0,41%
+10,0 %
+CDI
+IMA-B
+175,54% 37,34% 12,19% 1,55% 0,38%
+0,0 %
+IMA-B IMA-B 5
+160,45% 54,75% 10,91% 1,93% 0,25%
+-10,0 % IRF-M
+IMA-B 5 178,22% 55,14% 16,89% 2,51% 0,17%
+-20,0 % Dólar CDI 144,52% 70,76% 14,52% 1,84% 0,17%
+(Comercial)
+IDA-DI
+-30,0 % 173,53% 83,43% 15,50% 1,93% 0,11%
+Ouro - XAU
+5 5 5 5 5 5 5 5 5 5 6 6
+2 2 2 2 2 2 2 2 2 2 2 2 Ouro - XAU
+/ / / / / / / / / / / / 440,08% 171,42% 56,82% 10,37% 0,05%
+2 3 4 5 7 8 9 0 1 2 1 2
+0 0 0 0 0 0 0 1 1 1 0 0 S&P 500 (Moeda
+/ 1 / 6 / 8 / 1 / 3 / 5 / 7 / 0 / 2 / 5 / 7 / 9 Original) IDA-IPCA 166,39% 50,31% 15,63% 2,48% -0,02%
+2 2 2 3 0 0 0 1 1 1 1 1
+O IMA-B representa a evolução, a preços de mercado, da carteira de títulos públicos indexados ao IPCA (NTN-B). O IRF-M representa a evolução, a preços de mercado, da carteira de títulos públicos prefixados (LTN e NTN-F). Enquanto isso, o IDA (Índice de
+Debêntures ANBIMA - Associação Brasileira das Entidades dos Mercados Financeiro e de Capitais) espelha o comportamento de uma carteira de dívida privada, mais especificamente das debêntures marcadas a mercado. Todos são calculados pela Anbima e
+podem sofrer variações devido à dinâmica de oferta e demanda de títulos no mercado, reflexo das movimentações no cenário econômico. S&P 500 em dólar.
+XP RESEARCH
+Fontes: Quantum e XP Research. *Ultimo dado disponível 11
+RENDA FIXA
+================================================================================
+PAGINA 12
+================================================================================
+0 0 0
+Mercado Secundário
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Crédito Privado¹
+0 210 197
+Figura 13: Debêntures não incentivadas Figura 14: Debêntures incentivadas
+64 64 64
+Volume Negociado (R$ milhões) Ativos mais negociados (R$ milhões) Volume Negociado (R$ milhões) Ativos mais negociados (R$ milhões)
+126 126 126 1000 941 2000 TECP (TRGP13) 336
+Azzas (AZZA12) 222
+800 1.668 Coelba (CEEBD1) 109
+Eurofarma (EUFA17) 90 1500
+600 Aegea Saneamento (AEGPB5) 78 Engie (EGIEA2) 107
+Aegea Saneamento (AEGPB3) 70 1000 Metrorio (MGPRA0) 86
+400 Cosan (CSAN24) 50 693 MRS Logística (MRSAB3) 75
+305 500
+VIX Logística (VIXL18) 44 Taesa (TAEEB0) 66
+200
+NTS (NTSD36) 32 0 Brava Energia (ENAT32) 53
+0 Sabesp (SBSPB1) 29 13/2 18/2 19/2 Vale (VALEB0) 47
+13/2 18/2 19/2
+Vibra Energia (VBBR18) 26 CPFL Enegia (PALFB6) 45
+Fluxo diário Fluxo diário
+Vamos (VAMO33) 26
+Média semanal Média semanal MRS Logística (MRSAA3) 42
+Média da semana anterior Média da semana anterior
+Figura 15: CRAs Figura 16: CRIs
+Volume Negociado (R$ milhões) Ativos mais negociados (R$ milhões) Volume Negociado (R$ milhões) Ativos mais negociados (R$ milhões)
+600 300
+Iguatemi (25B3110439) 74
+500 ACP (CRA02500A6V) 160 250 269 Midway (25L3129615) 43
+Rio Amambai (CRA024007VL) 54
+400 301 200 195 BR Properties (13I0049561) 40
+Boa Safra (CRA025006SS) 22
+300 150 BRF (25B2793257) 12
+297 Lar Coop. (CRA025006NB) 16
+Cyrela (25J4546988) 10
+200 FS Bio (CRA022001E2) 15 100 Madureira Shop. (21K0001812) 10
+100 Seara (CRA025009EZ) 12 50 Sendas (21H1078699) 10
+0 Camil (CRA0240066A) 12 0 Gazit (22B0004808) 9
+13/2 18/2 19/2 Eldorado (CRA0250080X) 12 13/2 18/2 19/2 Multiplan (25I0014209) 8
+Fluxo diário Minerva (CRA02400AYP) 11 Fluxo diário Buriti (25H0243071) 8
+Média semanal Klabin (CRA02300CT6) 10 Média semanal
+Média da semana anterior -10 40 90 140 190 Média da semana anterior
+XP RESEARCH
+Fontes: B3 e XP Research. (1) Esta semana contou com apenas três dias de negociação devido aos feriados de Carnaval, o que pode afetar a comparabilidade das médias semanais. 12
+RENDA FIXA
+================================================================================
+PAGINA 13
+================================================================================
+0 0 0
+Mercado Secundário
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Crédito Privado
+0 210 197
+Figura 17: Prêmio de crédito IDEX – DI¹
+64 64 64
+6,00% 2,10%
+126 126 126 5,65%
+5,00% 2,00% 1,99%
+4,00% 1,90%
+1,85%
+3,00% 1,80%
+1,85% 1,79%
+2,00% 1,70%
+1,70%
+1,00% 1,60% 1,59%
+0,64%
+0,00% 1,50%
+1 2 2 3 3 3 4 4 5 5 6 5 5 5 5 5 5 6 6 6 6
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+/ 0 / 3 / 8 / 2 / 7 / 2 / 5 / 0 / 4 / 9 / 2 / 0 / 0 / 1 / 1 / 2 / 2 / 1 / 1 / 2 / 2
+1 0 0 0 0 1 0 1 0 0 0 1 1 1 1 1 1 0 0 0 0
+/ 3 / 1 / 7 / 2 / 1 / 7 / 4 / 0 / 7 / 3 / 9 / 7 / 2 / 6 / 1 / 6 / 1 / 5 / 0 / 4 / 9
+1 2 2 0 1 1 2 3 0 1 1 0 2 0 2 0 2 0 2 0 1
+IDEX-DI Mínimo Máximo Média IDEX-DI Mínimo Máximo Média
+Figura 18: Prêmio de crédito IDEX – Infra¹ (IPCA) - bps / B-ref (ex-Light)
+200,00
+176,01 20,00
+150,00 5,27
+0,00
+100,00 -18,92
+50,00 59,93 -20,00
+-22,60
+0,00 -40,00
+-22,60
+-50,00 -58,14 -60,00 -58,14
+-100,00
+-80,00
+1 2 2 3 3 3 4 4 5 5 6
+2 2 2 2 2 2 2 2 2 2 2 5 5 5 5 5 5 6 6 6 6
+/ / / / / / / / / / / 2 2 2 2 2 2 2 2 2 2
+0 3 8 2 7 2 5 0 4 9 2 / / / / / / / / / /
+1 0 0 0 0 1 0 1 0 0 0 0 0 1 1 2 2 1 1 2 2
+/ / / / / / / / / / / 1 1 1 1 1 1 0 0 0 0
+3 1 7 2 1 7 4 0 7 3 9 / / / / / / / / / /
+1 2 2 0 1 1 2 3 0 1 1 7 2 6 1 6 1 5 0 4 9
+0 2 0 2 0 2 0 2 0 1
+IDEX-Infra Mínimo Máximo Média
+IDEX-Infra Mínimo Máximo Média
+XP RESEARCH
+Fontes: JGP e XP Research. (1) Ex-Americanas, Aeris, Light, Viveo e Raízen. 13
+RENDA FIXA
+================================================================================
+PAGINA 14
+================================================================================
+0 0 0
+Mercado Secundário
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Crédito Privado
+0 210 197
+Figura 19: Maioresaberturas/fechamentosde spreadsna semana(IDEX –DI) Figura 20: Maiores aberturas/fechamentos de spreads na semana (IDEX – Infra)
+64 64 64
+126 126 126 Kora Saude (KRSA12) 1.300bps CSN (CSNAC4) 124,13bps
+Elfa Medicamentos (ELFA12) 693bps CSN (CSNAB5) 124,13bps
+Kora Saude (KRSA11) 500bps CSN (CSNAA6) 123,62bps
+Aeris (AERI12) 196bps CSN (CSNAA5) 123,19bps
+Aeris (AERI11) 196bps PRS Aeroportos S.A. (PRSS11) 40,85bps
+Hapvida (HAPV21) 132bps Vero (VERO12) 36,46bps
+Aegea (AEGP19) 45bps Platao Capital (PLAC13) 30,97bps
+Hapvida (BCBF16) 45bps EDP Trans. Aliança SP-MG S/A (MGSP12) 30,73bps
+Aegea (AEGPB3) 45bps NTS (NTSD19) 30,72bps
+Braskem (BRKMA6) 41bps Ligga Telecomunicacoes (CPTM15) 26,74bps
+Hapvida (HAPV18) -70bps
+Casan (CASN34) -37,01bps
+Hapvida (HAPV28) -70bps
+Brasil Tecpar (TEPA13) -57,20bps
+Hapvida (HAPVA0) -70bps
+Embasa (EBAS13) -57,24bps
+Unipar (UNIPB0) -120bps
+Giga Mais Fibra (SUMI18) -102,22bps
+Viveo (CMPH14) -295bps
+Raizen S.A. (RAIZ23) -251,20bps
+Viveo (VVEO16) -384bps
+Raizen S.A. (RAIZ13) -294,65bps
+Viveo (VVEO15) -497bps
+Raizen Energia S/A (RESA27) -454,39bps
+CSN (CSNAA2) -600bps
+Raizen Energia S/A (RESA15) -634,03bps
+Raizen S.A. (RAIZ12) -855bps
+Raizen Energia S/A (RESA17) -716,67bps
+Raizen S.A. (RAIZ14) -1.224bps
+Raizen Energia S/A (RESA14) -725,11bps
+-1.450bps -950bps -450bps 50bps 550bps 1.050bps 1.550bps 2.050bps
+-1300,00bps -1100,00bps -900,00bps -700,00bps -500,00bps -300,00bps -100,00bps 100,00bps 300,00bps
+XP RESEARCH
+Fontes: JGP e XP Research. 14
+RENDA FIXA
+================================================================================
+PAGINA 15
+================================================================================
+0 0 0
+50 52 54
+Renda Fixa
+255 188 0
+0 210 197
+64 64 64
+126 126 126
+Seção 4
+Movimentações nos
+ratings de emissores
+XP RESEARCH
+15
+RENDA FIXA
+================================================================================
+PAGINA 16
+================================================================================
+0 0 0
+Ações de rating
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Mudanças de ratings e perspectivas na semana
+0 210 197
+64 64 64 Figura 21: Ações de rating na semana¹
+126 126 126
+Emissor Data da ação Agência Anterior Atual Escala Movimento
+Cosan S/A 13/fev Moody's Local AA+.br/ Estável AA.br / Em revisão Local
+Rumo S/A 13/fev S&P Global brAAA/ Estável brAAA/ Negativa Local
+CSN 19/fev Moody's Ba3/ Estável B2/ Negativa Global
+Legenda: Elevação de rating e/ou perspectiva; Rebaixamento de rating e/ou perspectiva; Retirada de rating; Novo Atribuição de rating.
+Guia de Rating | Data-base: Janeiro 20256
+Guia de Rating | Data-base: Janeiro 20256
+XP RESEARCH
+Fontes: Moody’s, Moody’s Local, S&P Global, Fitch e XP Research. | Notas: (1) Inclui alteração no rating e / ou na perspectiva, início e retirada de cobertura. Não considera afirmações de rating e / ou perspectiva sem alteração. 16
+RENDA FIXA
+================================================================================
+PAGINA 17
+================================================================================
+0 0 0
+50 52 54
+Renda Fixa
+255 188 0
+0 210 197
+64 64 64
+126 126 126
+Seção 5
+Emissões Recentes |
+Anbima
+XP RESEARCH
+17
+RENDA FIXA
+================================================================================
+PAGINA 18
+================================================================================
+0 0 0
+Emissões Recentes | Anbima
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Principais emissões aprovadas em conselho e divulgadas em atas públicas / CVM
+0 210 197
+64 64 64 Figura 22: Principais emissões aprovadas da semana
+Data do Rating
+126 126 126 Status Emissor Instrumento Incentivada? Público alvo Volume (mi) Prazo (anos) Taxa Teto*
+Requerimento emissor
+OPEA SEC.
+18/02/2026 Registro Concedido - CRI Sim IP R$ 9,00 1ª Série: 3.48 1ª Série: CDI + 3.7640%
+(TAEL)
+ÉXES SEC. 1ª Série: Não foi possível identificar informações de
+18/02/2026 Registro Concedido - CRI Sim IP R$ 35 1ª Série: 3
+(MÚLTIPLOS) remuneração/taxa de juros no texto fornecido.
+CANAL SEC.
+(SH
+19/02/2026 Registro Concedido - CRI Sim IP R$ 5,63 1ª Série: 0.59 1ª Série: CDI + 4,65%
+EMPREENDIM
+ENTOS)
+BRODOWSKI
+Aguardando
+18/02/2026 SANEAMENTO - Debêntures Não IP R$ 60 1ª Série: 2 1ª Série: CDI + 1,00%
+Bookbuilding
+S.A.
+OPEA
+19/02/2026 Registro Concedido SECURITIZAD - Debêntures Não IP R$ 666,66 1ª Série: 1.51 1ª Série: CDI + 2,12%
+ORA S.A.
+GLOBAL
+INFRA
+19/02/2026 Registro Concedido - Debêntures Não IP R$ 93 1ª Série: 4.82 1ª Série: CDI + 4,00%
+TELECOM -
+GIT S.A.
+SANTA CLARA
+Aguardando 1ª Série: 5 1ª Série: CDI + 3,50%
+19/02/2026 AGROCIENCIA - Debêntures Não IP R$ 115,00
+Bookbuilding 2ª Série: 5 2ª Série: CDI + 3,373%
+S.A.
+EDP
+Aguardando 1ª Série: 10.32 1ª Série: NTN-B 2030 + 0,78% ou IPCA +8,55%
+19/02/2026 TRANSMISSÃ AAA Debêntures Não IP R$ 428
+Bookbuilding 2ª Série: 15.32 2ª Série: NTN-B 2035 + 1,10% ou IPCA +8,60%
+O SP-MG S.A.
+Fontes: CVM, S&P Global, Fitch e XP Research. | Notas: (1) IP (Investidor Profissional) é uma pessoa física ou jurídica que possui investimentos financeiros em valor nominal superior a R$ 10 milhões e que também valide por escrito essa condição; (2)
+XP RESEARCH
+IQ (Investidor Qualificado) é uma pessoa, física ou jurídica, que possua mais de R$ 1 milhão investido e/ou tenha alguma certificação aceita pela CVM; (3) PG (Público Geral) é um termo designado a todos os investidores, independentemente do seu 18
+RENDA FIXA
+valor monetário aplicado. (4) Não informado. * O que for maior entre
+================================================================================
+PAGINA 19
+================================================================================
+0 0 0
+50 52 54
+Renda Fixa
+255 188 0
+0 210 197
+64 64 64
+126 126 126
+Seção 6
+Títulos Públicos –
+Leilões
+XP RESEARCH
+19
+RENDA FIXA
+================================================================================
+PAGINA 20
+================================================================================
+0 0 0
+Títulos Públicos
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Leilões
+0 210 197
+Figura 24: Leilões da semana – LTF e NTN-B Figura 26: Títulos Públicos - Mercado secundário (até 19/02/2026)1
+64 64 64
+Em razão do feriado, não houve realização de leilão na terça-feira, 17/02/2026. LFT 2029 LFT 2031 NTN-B 2030 NTN-B 2032
+126 126 126
+Taxa de remuneração Taxa de remuneração Taxa de remuneração Taxa de remuneração
+Selic + 0,06% Selic + 0,10% IPCA + 7,68% IPCA + 7,64%
+Variação Semanal Variação Semanal Variação Semanal Variação Semanal
+0,16% 0,17% 0,19% 0,23%
+Variação mensal Variação mensal Variação mensal Variação mensal
+0,99% 0,99% 1,56% 1,86%
+NTN-B 2035 NTN-B 2040 NTN-B 2045 NTN-B 2050
+Taxa de remuneração Taxa de remuneração Taxa de remuneração Taxa de remuneração
+Figura 25: Leilões da semana – LTN e NTN-F IPCA + 7,52% IPCA + 7,35% 7,01% 6,92%
+Variação Semanal Variação Semanal Variação Semanal Variação Semanal
+19/02/2026 Ofertado Aceito 0,20% 0,39% 1,44% 1,33%
+%Colocado x Taxa média Taxa no leilão Financeiro
+Título Vencimento Quantidade Quantidade Variação mensal Variação mensal Variação mensal Variação mensal
+Aceito (% a.a.) prévio (R$ mi)
+2,13% 2,14% 2,99% 3,36%
+LTN 01/10/2026 3.000.000 3.000.000 100% 13,65 13,04 2.774,40
+LTN 01/04/2028 2.000.000 950.000 48% 12,64 12,90 739,60
+LTN 2027 LTN 2028 LTN 2032 NTN-B 2026
+LTN 01/01/2030 10.000.000 10.000.000 100% 13,03 13,41 6.259,90
+NTN-F 01/01/2031 3.000.000 3.000.000 100% 13,31 13,29 2.718,30
+NTN-F 01/01/2033 3.000.000 3.000.000 100% 13,55 13,53 2.602,80
+Taxa de remuneração Taxa de remuneração Taxa de remuneração Taxa de remuneração
+NTN-F 01/01/2037 2.000.000 2.000.000 100% 13,67 13,67 1.640,70
+12,8% 12,6% 13,4% 10,0%
+Variação Semanal Variação Semanal Variação Semanal Variação Semanal
+Total 23.000.000 21.950.000 16.735,70 0,16% 0,18% 0,19% 0,23%
+Variação mensal Variação mensal Variação mensal Variação mensal
+1,40% 1,71% 2,27% 1,07%
+Para mais informações sobre o funcionamento de leilões de títulos públicos,clique aqui.
+XP RESEARCH
+Fontes: Economática, Tesouro Nacional e XP Research. (1) Movimento apontado pela seta representa o preço do ativo. 20
+RENDA FIXA
+================================================================================
+PAGINA 21
+================================================================================
+0 0 0
+50 52 54
+Renda Fixa
+255 188 0
+0 210 197
+64 64 64
+126 126 126
+Seção 7
+O que esperar para a
+semana seguinte
+XP RESEARCH
+21
+RENDA FIXA
+================================================================================
+PAGINA 22
+================================================================================
+0 0 0
+O que esperar para a semana seguinte
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Agenda econômica, próximos leilões e vencimentos de debêntures
+Atualizado
+0 210 197
+No cenário internacional, a agenda dos Estados Unidos trará a divulgação do índice de preços ao produtor e uma série de sondagens regionais de atividade econômica. Na China, o banco central
+64 64 64
+decidirá pelas taxas de empréstimos de 1 ano e de 5-10 anos. Por fim, na Europa, a leitura final da inflação ao consumidor de janeiro será conhecida.
+126 126 126
+No Brasil, o protagonismo da próxima semana ficará com o IPCA-15 de fevereiro, para o qual esperamos aceleração ante janeiro, especialmente por reajustes em educação. Do lado da atividade
+econômica, o Ministério do Trabalho trará a geração de emprego formal (relatório Caged) de janeiro. Além disso, o banco central divulgará as estatísticas de crédito, fiscais e do setor externo –
+também de janeiro.
+Figura 27: Próximos Leilões do Tesouro Nacional Figura 28: Vencimentos de debêntures da próxima semana
+Data do leilão Títulosofertados Vencimentosdos Estoque - B3
+títulos Resgate
+Emissor Ativo Incentivada? Indexador Data Emissão Vencimento
+Antecipado
+(R$ Milhões)
+LFT 01/03/2032
+24/02/2026 15/05/2029 ASCENSUS
+NTN-B 15/05/2033 GESTAO E
+ASCS12 - Não DI 22/02/2021 22/02/2026 N/A
+15/08/2050 PARTICIPACOES
+01/01/2031 S.A
+NTN-F 01/01/2033
+01/01/2037
+26/02/2026 SUPERFRIO
+01/04/2027
+LTN 01/07/2029 ARMAZENS SPFO29 - Não DI 26/02/2024 26/02/2026 Sim
+01/01/2032 GERAIS S.A.
+Fontes: debentures.com, Tesouro Nacional e XP Research | Notas (1) Data programada para que a companhia faça o resgate total da debentures XP RESEARCH
+22
+RENDA FIXA
+================================================================================
+PAGINA 23
+================================================================================
+0 0 0
+O que esperar para a semana seguinte
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Agenda econômica, próximos leilões e vencimentos de debêntures
+0 210 197
+Figura 29: Agenda econômica – 1/2
+64 64 64
+Horário País/Região Evento Período Consenso (BBG) Projeção XP Anterior
+126 126 126
+segunda-feira, 23 de fevereiro de 2026
+08:00 BZ Confiança do Consumidor Fev -- -- 87,3
+08:25 BZ Boletim Focus -- -- -- --
+12:00 US Encomendas de Bens Duráveis Dez F -- -- -1,4%
+15:00 BZ Balança Comercial Semanal -- -- -- $1501m
+22:00 CH Taxa de Empréstimos de 5-10 anos -- 3,50% -- 3,50%
+22:00 CH Taxa de Empréstimos de 1 ano -- 3,00% -- 3,00%
+terça-feira, 24 de fevereiro de 2026
+08:30 BZ Conta Corrente Jan -$5700m -$6800m -$3363m
+08:30 BZ Investimentos Diretos no País Jan $7000m $6000m -$5248m
+10:15 US ADP Semanal -- -- -- 10.250k
+12:00 US Confiança do Consumidor (Conf. Board) Fev 87,8 -- 84,5
+12:00 US Vendas no Atacado (M/M) Dez F 0,2% -- 0,2%
+quarta-feira, 25 de fevereiro de 2026
+07:00 EC CPI (A/A) Jan F 1,7% -- 1,7%
+07:00 EC CPI (M/M) Jan F -0,5% -- -0,5%
+07:00 EC Núcleo do CPI (A/A) Jan F 2,2% -- 2,2%
+08:30 BZ Saldo de Crédito Jan -- -- 7123b
+08:30 BZ Taxa de Inadimplência Jan -- -- 6,9%
+XP RESEARCH
+Fontes: Bloomberg e XP Research. 23
+RENDA FIXA
+================================================================================
+PAGINA 24
+================================================================================
+0 0 0
+O que esperar para a semana seguinte
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Agenda econômica, próximos leilões e vencimentos de debêntures
+0 210 197
+Figura 31: Agenda econômica – 2/2
+64 64 64
+126 126 126 Horário País/Região Evento Período Consenso (BBG) Projeção XP Anterior
+quinta-feira, 26 de fevereiro de 2026
+Fev F -- -- -12,2
+07:00 EC Confiança do Consumidor
+Fev -0,56% -- 0,41%
+08:00 BZ IGP-M (M/M)
+Fev -2,54% -- -0,91%
+08:00 BZ IGP-M (A/A)
+-- 216k -- 206k
+10:30 US Pedidos Semanais de Seguro Desemprego
+sexta-feira, 27 de fevereiro de 2026
+Jan -- 107,4b 6,3b
+08:30 BZ Resultado Primário do Setor Público Consolidado
+Jan -- -- 65%
+08:30 BZ Dívida Bruta/PIB
+Jan -- -- -115,5b
+08:30 BZ Resultado Nominal do Setor Público Consolidado
+Fev 0,57% 0,60% 0,20%
+09:00 BZ IPCA-15 (M/M)
+Fev 3,83% 3,86% 4,50%
+09:00 BZ IPCA-15 (A/A)
+Jan 0,3% -- 0,5%
+10:30 US PPI (M/M)
+Jan 0,4% -- 0,7%
+10:30 US Núcleo do PPI (M/M)
+Jan 2,6% -- 3,0%
+10:30 US PPI (A/A)
+Jan 3,2% -- 3,3%
+10:30 US Núcleo do PPI (A/A)
+Jan 107750 85000 -618164
+14:30 BZ Criação de Empregos Formais (Caged)
+XP RESEARCH
+Fontes: Bloomberg e XP Research. 24
+RENDA FIXA
+================================================================================
+PAGINA 25
+================================================================================
+0 0 0
+50 52 54
+Renda Fixa
+255 188 0
+0 210 197
+64 64 64
+126 126 126
+Seção 8
+Publicações recentes em
+destaque
+XP RESEARCH
+25
+RENDA FIXA
+================================================================================
+PAGINA 26
+================================================================================
+0 0 0
+Conteúdos em destaque
+20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+Publicações da semana
+0 210 197
+64 64 64
+Vídeos, Podcasts Temáticos, Explicativos Análisesde Crédito
+Outros
+& Press & Periódicos de Emissores
+126 126 126
+ONDE INVESTIR em 2026: OPORTUNIDADES,
+CSN é rebaixada pela Moody's de Ba3 para Temporada de Resultados Renda Fixa – 4º
+RISCOS e o QUE ESPERAR para o ANO QUE Guia de Análises: Empresas e Bancos
+B2 trimestre de 2025
+VEM
+De Olho na Renda Fixa: Principais notícias de
+- - Grupo AIZ – Acompanhe as Assembleias
+crédito privado, mercados e renda fixa
+- - - Guia de Rating | Data-base: Dezembro 2025
+- - - Mapa de Conteúdos – Renda Fixa
+- - - Bancos: Resumo dos principais indicadores
+Acesse aqui a nossa página de conteúdos
+Acesse aqui a nossa página de conteúdos
+XP RESEARCH
+Fonte: XP Research. 26
+RENDA FIXA
+================================================================================
+PAGINA 27
+================================================================================
+0 0 0
+Disclaimer 20 de fevereiro de 2026
+50 52 54
+Renda Fixa
+255 188 0
+1) Este relatório de análise foi elaborado pela XP Investimentos CCTVM S.A. (“XP Investimentos ou XP”) de acordo com todas as exigências previstasna Resolução CVM 20/2021, tem como objetivo fornecer informações que possam auxiliar o investidor a tomar sua própria decisão de
+investimento, não constituindo qualquer tipo de oferta ou solicitação de compra e/ou venda de qualquer produto. As informações contidas neste relatório são consideradas válidas na data de sua divulgação e foram obtidas de fontes públicas. A XP Investimentos não se responsabiliza por
+0 210 197
+qualquer decisão tomada pelo cliente com base no presente relatório.
+2) Este relatório foi elaborado considerando a classificação de risco dos produtos de modo a gerar resultados de alocação para cada perfil de investidor.
+64 64 64 3) O(s) signatário(s) deste relatório declara(m) que as recomendações refletem única e exclusivamente suas análises e opiniões pessoais, que foram produzidas de forma independente, inclusive em relação à XP Investimentos e que estão sujeitas a modificações sem aviso prévio em
+decorrência de alterações nas condições de mercado, e que sua(s) remuneração(es) é(são) indiretamente influenciada por receitas provenientes dos negócios e operações financeiras realizadas pela XP Investimentos.
+4) O analista responsável pelo conteúdo deste relatório e pelo cumprimento da Resolução CVM nº 20/2021 está indicado acima, sendo que, caso constem a indicação de mais um analista no relatório, o responsável será o primeiro analista credenciado a ser mencionado no relatório.
+126 126 126
+5) Os analistas da XP Investimentos estão obrigados ao cumprimento de todas as regras previstas no Código de Conduta da APIMEC para o Analista de Valores Mobiliários e na Política de Conduta dos Analistas de Valores Mobiliários da XP Investimentos.
+6) O atendimento de nossos clientes é realizado por empregados da XP Investimentos ou por agentes autônomos de investimento que desempenham suas atividades por meio da XP, em conformidade com a Resolução CVM nº 16/2021, os quais encontram-se registrados na Associação
+Nacional das Corretoras e Distribuidoras de Títulos e Valores Mobiliários – ANCORD. O agente autônomo de investimento não pode realizar consultoria, administração ou gestão de patrimônio de clientes, devendo atuar como intermediário e solicitar autorização prévia do cliente para a
+realização de qualquer operação no mercado de capitais.
+7) Para fins de verificação da adequação do perfil do investidor aos serviços e produtos de investimento oferecidos pela XP Investimentos, utilizamos a metodologia de adequação dos produtos por portfólio, nos termos das Regras e Procedimentos ANBIMA de Suitability nº 01 e do Código
+ANBIMA de Regulação e Melhores Práticas para Distribuição de Produtos de Investimento. Essa metodologia consiste em atribuir uma pontuação máxima de risco para cada perfil de investidor (conservador, moderado e agressivo), bem como uma pontuação de risco para cada um dos
+produtos oferecidos pela XP Investimentos, de modo que todos os clientes possam ter acesso a todos os produtos, desde que dentro das quantidades e limites da pontuação de risco definidas para o seu perfil. Antes de aplicar nos produtos e/ou contratar os serviços objeto deste material, é
+importante que você verifique se a sua pontuação de risco atual comporta a aplicação nos produtos e/ou a contratação dos serviços em questão, bem como se há limitações de volume, concentração e/ou quantidade para a aplicação desejada. Você pode consultar essas informações
+diretamente no momento da transmissão da sua ordem ou, ainda, consultando o risco geral da sua carteira na tela de carteira (Visão Risco). Caso a sua pontuação de risco atual não comporte a aplicação/contratação pretendida, ou caso existam limitações em relação à quantidade e/ou
+volume financeiro para a referida aplicação/contratação, isto significa que, com base na composição atual da sua carteira, esta aplicação/contratação não está adequada ao seu perfil. Em caso de dúvidas sobre o processo de adequação dos produtos oferecidos pela XP Investimentos ao seu
+perfil de investidor, consulte o FAQ. As condições de mercado, mudanças climáticas e o cenário macroeconômico podem afetar o desempenho do investimento.
+8) A rentabilidade de produtos financeiros pode apresentar variações e seu preço ou valor pode aumentar ou diminuir num curto espaço de tempo. Os desempenhos anteriores não são necessariamente indicativos de resultados futuros. A rentabilidade divulgada não é líquida de impostos. As
+informações presentes neste material são baseadas em simulações e os resultados reais poderão ser significativamente diferentes.
+9) Este relatório é destinado à circulação exclusiva para a rede de relacionamento da XP Investimentos, incluindo agentes autônomos da XP e clientes da XP, podendo também ser divulgado no site da XP. Fica proibida sua reprodução ou redistribuição para qualquer pessoa, no todo ou em
+parte, qualquer que seja o propósito, sem o prévio consentimento expresso da XP Investimentos.
+10)SAC. 0800 77 20202. A Ouvidoria da XP Investimentos tem a missão de servir de canal de contato sempre que os clientes que não se sentirem satisfeitos com as soluções dadas pela empresa aos seus problemas. O contato pode ser realizado por meio do telefone: 0800 722 3710.
+11)O custo da operação e a política de cobrança estão definidos nas tabelas de custos operacionais disponibilizadas no site da XP Investimentos: www.xpi.com.br.
+12)A XP Investimentos se exime de qualquer responsabilidade por quaisquer prejuízos, diretos ou indiretos, que venham a decorrer da utilização deste relatório ou seu conteúdo.
+13) A Avaliação Técnica e a Avaliação de Fundamentos seguem diferentes metodologias de análise. A Análise Técnica é executada seguindo conceitos como tendência, suporte, resistência, candles, volumes, médias móveis entre outros. Já a Análise Fundamentalista utiliza como informação
+os resultados divulgados pelas companhias emissoras e suas projeções. Desta forma, as opiniões dos Analistas Fundamentalistas, que buscam os melhores retornos dadas as condições de mercado, o cenário macroeconômico e os eventos específicos da empresa e do setor, podem divergir
+das opiniões dos Analistas Técnicos, que visam identificar os movimentos mais prováveis dos preços dos ativos, com utilização de “stops” para limitar as possíveis perdas.
+14) Ação é uma fração do capital de uma empresa que é negociada no mercado. É um título de renda variável, ou seja, um investimento no qual a rentabilidade não é preestabelecida, varia conforme as cotações de mercado. O investimento em ações é um investimento de alto risco e os
+desempenhos anteriores não são necessariamente indicativos de resultados futuros e nenhuma declaração ou garantia, de forma expressa ou implícita, é feita neste material em relação a desempenhos. As condições de mercado, o cenário macroeconômico, os eventos específicos da
+empresa e do setor podem afetar o desempenho do investimento, podendo resultar até mesmo em significativas perdas patrimoniais. A duração recomendada para o investimento é de médio-longo prazo. Não há quaisquer garantias sobre o patrimônio do cliente neste tipo de produto
+15)O investimento em opções é preferencialmente indicado para investidores de perfil agressivo, de acordo com a política de suitability praticada pela XP Investimentos. No mercado de opções, são negociados direitos de compra ou venda de um bem por preço fixado em data futura, devendo
+o adquirente do direito negociado pagar um prêmio ao vendedor tal como num acordo seguro. As operações com esses derivativos são consideradas de risco muito alto por apresentarem altas relações de risco e retorno e algumas posições apresentarem a possibilidade de perdas superiores
+ao capital investido. A duração recomendada para o investimento é de curto prazo e o patrimônio do cliente não está garantido neste tipo de produto.
+16)O investimento em termos são contratos para compra ou a venda de uma determinada quantidade de ações, a um preço fixado, para liquidação em prazo determinado. O prazo do contrato a Termo é livremente escolhido pelos investidores, obedecendo o prazo mínimo de 16 dias e máximo
+de 999 dias corridos. O preço será o valor da ação adicionado de uma parcela correspondente aos juros – que são fixados livremente em mercado, em função do prazo do contrato. Toda transação a termo requer um depósito de garantia. Essas garantias são prestadas em duas formas:
+cobertura ou margem.
+17)O investimento em Mercados Futuros embute riscos de perdas patrimoniais significativos. Commodity é um objeto ou determinante de preço de um contrato futuro ou outro instrumento derivativo, podendo consubstanciar um índice, uma taxa, um valor mobiliário ou produto físico. É um
+investimento de risco muito alto, que contempla a possibilidade de oscilação de preço devido à utilização de alavancagem financeira. A duração recomendada para o investimento é de curto prazo e o patrimônio do cliente não está garantido neste tipo de produto. As condições de mercado,
+mudanças climáticas e o cenário macroeconômico podem afetar o desempenho do investimento.
+18)ESTA INSTITUIÇÃO É ADERENTE AO CÓDIGO ANBIMA DE REGULAÇÃO E MELHORES PRÁTICAS PARA ATIVIDADE DE DISTRIBUIÇÃO DE PRODUTOS DE INVESTIMENTO NO VAREJO.
+XP RESEARCH
+27
+RENDA FIXA
+================================================================================
+PAGINA 28
+================================================================================
+0 0 0
+50 52 54
+Renda Fixa
+255 188 0
+0 210 197
+64 64 64
+126 126 126
+XP RESEARCH
+28
+RENDA FIXA
