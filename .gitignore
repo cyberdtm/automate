@@ -19,3 +19,5 @@ Thumbs.db
 
 # Arquivos gerados pelo processamento do PDF
 pdf_extraidos/
+
+.env
